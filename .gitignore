@@ -34,3 +34,4 @@ build/
 
 ## personal ##
 commands.txt
+.env
